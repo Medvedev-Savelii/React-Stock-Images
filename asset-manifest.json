@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/React-Stock-Images/static/js/main.24e242d3.js",
+    "index.html": "/React-Stock-Images/index.html",
+    "static/media/search.svg": "/React-Stock-Images/static/media/search.69a735b21011ec2f1d5d62825b501d39.svg",
+    "static/media/download.svg": "/React-Stock-Images/static/media/download.3757d651ae0e6fa2ee12e8ae11292009.svg",
+    "main.24e242d3.js.map": "/React-Stock-Images/static/js/main.24e242d3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.24e242d3.js"
+  ]
+}
